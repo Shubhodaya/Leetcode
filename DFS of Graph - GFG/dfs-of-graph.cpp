@@ -28,7 +28,33 @@ class Solution {
         
         vector<int>ans;
         vector<int> vis(V,0);
-        dfs(0,adj,ans,vis);
+        // dfs(0,adj,ans,vis);
+        // return ans;\
+        
+        stack<int> s;
+        
+        s.push(0);
+    
+        while(!s.empty()){
+            int curr=s.top();
+            s.pop();
+            
+            
+            if(vis[curr]==0){
+                
+            ans.push_back(curr);
+            vis[curr]=1;
+            }
+            
+            
+            for(int i=adj[curr].size()-1; i>=0;i--){
+                
+                if(vis[adj[curr][i]]==0)
+                s.push(adj[curr][i]);
+            }
+            
+        }
+        
         return ans;
     }
 };
