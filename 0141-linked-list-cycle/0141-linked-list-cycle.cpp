@@ -1,51 +1,36 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-    //     unordered_map<ListNode*,bool>mp;
-    //    ListNode* ptr =head;
-       
-
-
-    //    while(ptr){
-           
-    //        if(mp[ptr])return true;
-    //        else{
-    //            mp[ptr]=true;
-    //            ptr=ptr->next;
-
-    //        }
-    //    }
-
-    //    return false;
-
-
-       ListNode* s =head;
-       ListNode* f =head;
-
-if(!head)return false;
-
-       while(f->next && f->next->next){
-
-        s=s->next;
-        f=f->next->next;
-
-        if(s==f)return true;    
-
-
-       
-       }
-
-       return false;
+	
+	// 	// making two pointers fast and slow and assignning them to head
+    //     ListNode *fast = head;
+    //     ListNode *slow = head;
         
+	// 	// till fast and fast-> next not reaches NULL
+	// 	// we will increment fast by 2 step and slow by 1 step
+    //     while(fast != NULL && fast ->next != NULL)
+    //     {
+    //         fast = fast->next->next;
+    //         slow = slow->next;
+            
+			
+	// 		// At the point if fast and slow are at same address
+	// 		// this means linked list has a cycle in it.
+    //         if(fast == slow)
+    //             return true;
+    //     }
         
-        
+	// 	// if traversal reaches to NULL this means no cycle.
+    //     return false;
+    // }
+
+    unordered_map<ListNode*, int> mp;
+
+    while(head){
+
+        if(mp[head])return true;
+        mp[head]++;
+        head=head->next;
+    }return false;
     }
 };
