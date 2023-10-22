@@ -9,11 +9,25 @@ static bool cmp(vector<int> &a,vector<int> &b){
 }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         vector<vector<int>>ans;
-        sort(points.begin(),points.end(),cmp);
+        // sort(points.begin(),points.end(),cmp);
 
-        for(int i=0;i<k;i++){
-            ans.push_back(points[i]);
+        // for(int i=0;i<k;i++){
+        //     ans.push_back(points[i]);
+        // }
+        priority_queue<pair<int,vector<int>>>p;
+
+        for(auto it:points){
+            p.push({it[1]*it[1]+ it[0]*it[0],it});
+            if(p.size()>k)p.pop();
         }
+
+        while(!p.empty()){
+            ans.push_back(p.top().second);
+            p.pop();
+        }
+
+        
+
 return ans;
         
     }
