@@ -22,7 +22,7 @@ class Solution
     }
 	public:
 	//Function to return list containing vertices in Topological order. 
-	vector<int> topoSort(int V, vector<int> adj[]) 
+	vector<int> topoSort1(int V, vector<int> adj[]) 
 	{
 	   stack<int> st;
 	   vector<int>vis(V,0);
@@ -39,6 +39,41 @@ class Solution
 	   }
 	   
 	   return ans;
+	}
+	
+		vector<int> topoSort(int V, vector<int> adj[]) 
+	{
+	   vector<int>topo;
+	   queue<int>q;
+	   vector<int>in(V,0);
+	   
+	   for( int i=0;i<V;i++){
+	       for(auto it: adj[i])
+	       in[it]++;
+	   }
+	   
+	   for( int i=0;i<V;i++){
+         if(in[i]==0)q.push(i);
+	   }
+	   
+	   while(!q.empty()){
+	       
+	       int curr=q.front();
+	       q.pop();
+	       topo.push_back(curr);
+	       
+	       for(int i=0;i<adj[curr].size();i++){
+	           in[adj[curr][i]]--;
+	           if(!in[adj[curr][i]])q.push(adj[curr][i]);
+	       }
+	       
+	   }
+	   
+	   
+	   
+	  
+	   return topo;
+	   
 	}
 };
 
