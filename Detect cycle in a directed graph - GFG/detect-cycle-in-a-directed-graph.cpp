@@ -40,7 +40,8 @@ class Solution {
         //     }
         // }
         // return false;
-        vector<int>topo;
+        // vector<int>topo;
+        int cnt=0;
         queue<int>q;
         vector<int>indegree(V,0);
         
@@ -63,7 +64,8 @@ class Solution {
             
             int node=q.front();
             q.pop();
-            topo.push_back(node);
+            // topo.push_back(node);
+            cnt++;
             
             for(auto it: adj[node]){
                 indegree[it]--;
@@ -73,7 +75,7 @@ class Solution {
             
         }
         
-        if(topo.size()==V)return 0;
+        if(cnt==V)return 0;
         return 1;
         
         
