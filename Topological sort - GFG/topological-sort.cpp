@@ -8,38 +8,38 @@ class Solution
     
     private:
     
-    void dfs(int node,  vector<int> adj[],stack<int> &st,vector<int> &vis){
+    // void dfs(int node,  vector<int> adj[],stack<int> &st,vector<int> &vis){
         
-        vis[node]=1;
+    //     vis[node]=1;
         
-        for(auto it: adj[node]){
-            if(!vis[it])dfs(it,adj,st,vis);
-        }
+    //     for(auto it: adj[node]){
+    //         if(!vis[it])dfs(it,adj,st,vis);
+    //     }
         
-        st.push(node);
-        return;
+    //     st.push(node);
+    //     return;
         
-    }
+    // }
 	public:
 	//Function to return list containing vertices in Topological order. 
-	vector<int> topoSort1(int V, vector<int> adj[]) 
-	{
-	   stack<int> st;
-	   vector<int>vis(V,0);
-	   vector<int>ans;
+// 	vector<int> topoSort1(int V, vector<int> adj[]) 
+// 	{
+// 	   stack<int> st;
+// 	   vector<int>vis(V,0);
+// 	   vector<int>ans;
 	   
 	   
-	   for(int i=0;i<V;i++){
-	       if(!vis[i])dfs(i,adj,st,vis);
-	   }
+// 	   for(int i=0;i<V;i++){
+// 	       if(!vis[i])dfs(i,adj,st,vis);
+// 	   }
 	   
-	   while(!st.empty()){
-	       ans.push_back(st.top());
-	       st.pop();
-	   }
+// 	   while(!st.empty()){
+// 	       ans.push_back(st.top());
+// 	       st.pop();
+// 	   }
 	   
-	   return ans;
-	}
+// 	   return ans;
+// 	}
 	
 		vector<int> topoSort(int V, vector<int> adj[]) 
 	{
