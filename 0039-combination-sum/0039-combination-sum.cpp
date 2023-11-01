@@ -31,8 +31,8 @@ void  func(int i,vector<int>& candidates, int target,vector<vector<int>>&ds,vect
         }
 
         if (i < 0 ) {
-            if (target == 0) 
-            ds.push_back(temp);
+            // if (target == 0) 
+            // ds.push_back(temp);
             return;
         // No need to proceed with this branch
         }
