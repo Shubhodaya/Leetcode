@@ -16,8 +16,11 @@ class Solution {
 
         if(!p)return 0;
            
-        ans=max(ans,f(p->left,ans)+f(p->right,ans));
-        return max(f(p->left,ans),f(p->right,ans))+1;
+
+           int l=f(p->left,ans);
+           int r=f(p->right,ans);
+        ans=max(ans,l+r);
+        return max(1+l,1+r);
 
         
 
@@ -43,7 +46,7 @@ public:
         
 
         int ans=0;
-        diameter(root,ans);
+        f(root,ans);
         return ans;
     }
 };
