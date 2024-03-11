@@ -42,7 +42,7 @@ public:
         for (auto it : mp) {
             if (it.second) {
                 int k = it.second;
-                while (k--)
+                while (it.second--)
                     a.push_back(it.first);
             }
         }
