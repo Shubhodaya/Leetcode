@@ -13,15 +13,20 @@ public:
        }
        vector<int>vis(n,0);
 
-      function<void(int)> f = [&](int curr) {
-    vis[curr] = 1; // Mark the current node as visited
+       function<void(int,int)>f= [&](int curr, int p){
+           
 
-    for (auto it : adj[curr]) {
-        if (vis[it] == 0) // If the adjacent node hasn't been visited
-            f(it); // Recursively visit it
-    }
-      };
-       f(0);
+           if(vis[curr]==1)return;
+           vis[curr]=1;
+
+           for(auto it: adj[curr]){
+            if(it==p || it==curr)continue;
+            if(vis[it]==0)f(it,curr);
+           }
+
+return;
+       };
+       f(0,0);
 
        for(auto it:vis)if(it==0)return false;
        return true;
