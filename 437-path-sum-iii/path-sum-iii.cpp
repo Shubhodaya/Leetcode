@@ -11,10 +11,11 @@
  */
 class Solution {
 public:
-    unordered_map<long, int> map;
-    int count = 0;
-    
-    void countPathSum(TreeNode* root, int target, long sum){
+        int count=0;
+   unordered_map<long, int> map;
+    int pathSum(TreeNode* root, int targetSum) {
+ 
+    function<void(TreeNode*,int,long)>countPathSum = [&](TreeNode* root, int target, long sum){
         if(!root)
             return;
         sum += root->val;        //Path sum from root
@@ -26,10 +27,34 @@ public:
         countPathSum(root->left, target, sum);
         countPathSum(root->right, target, sum);
         map[sum]--;      //After visiting the left and right subtree, we have to reduce this path sum count from map since we are leaving this path
-    }
-    
-    int pathSum(TreeNode* root, int targetSum) {
-        countPathSum(root, targetSum, 0);
-        return count;
+    };
+     countPathSum(root, targetSum, 0);
+     return count;
+
+
+
+//         function<void(TreeNode*,int)>f = [&](TreeNode* root, long sum){
+              
+//               if(!root)return ;
+//               sum +=root->val;
+
+//               if(sum==targetSum)ans++;
+
+//         if(map.find(sum - targetSum) != map.end())         
+//             ans += map[sum - targetSum];
+
+//             map[sum]++;
+//               f(root->left,sum);
+//             //   if(root->left)f(root->left,0);
+//               f(root->right,sum);
+//             //   if(root->right)f(root->right,0);
+
+//             map[sum]--;
+
+//         };
+// f(root,0);
+// return ans;
+
+        
     }
 };
