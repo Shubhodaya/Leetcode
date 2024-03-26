@@ -14,23 +14,23 @@ public:
         }
 int s=0;
 
-        function<void(int,bool)>f=[&](int i,bool d){
+        function<void(int)>f=[&](int i){
 
             if(vis[i]==1)return;
             vis[i]=1;
 
            for(auto it:adj[i]){
-            if(!d && !vis[it])s++;
-            f(it,d);    
+            if(!vis[it])s++;
+            f(it);    
            }
                for(auto it:adj1[i]){
-                if(d && !vis[it])s++;
-            f(it,d);
+                // if(d && !vis[it])s++;
+            f(it);
             // s++;
            }
            return;
 
-        };f(0,0);
+        };f(0);
 return s;
         
     }
