@@ -16,7 +16,7 @@ public:
         for(;r<n;r++){
             
             mul *= nums[r];
-            while(l<n && mul>=k){
+            while(l<=r && mul>=k){
                 mul /= nums[l];
                 l++;
             }
