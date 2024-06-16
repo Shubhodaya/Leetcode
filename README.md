@@ -22,6 +22,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Shubhodaya/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Shubhodaya/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Shubhodaya/Leetcode/tree/master/0876-hand-of-straights) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/Shubhodaya/Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/Shubhodaya/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Shubhodaya/Leetcode/tree/master/0648-replace-words) |
