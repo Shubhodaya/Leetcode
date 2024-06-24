@@ -51,6 +51,7 @@
 | [0853-most-profit-assigning-work](https://github.com/Shubhodaya/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Shubhodaya/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Shubhodaya/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shubhodaya/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Shubhodaya/Leetcode/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shubhodaya/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shubhodaya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shubhodaya/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting
 |  |
 | ------- |
@@ -99,11 +101,13 @@
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shubhodaya/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shubhodaya/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shubhodaya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shubhodaya/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shubhodaya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
@@ -113,3 +117,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Shubhodaya/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shubhodaya/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
