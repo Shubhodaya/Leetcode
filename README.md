@@ -146,3 +146,7 @@
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Shubhodaya/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1916-find-center-of-star-graph) |
