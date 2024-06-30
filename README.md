@@ -172,4 +172,12 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
