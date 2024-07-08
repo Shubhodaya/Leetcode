@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k">3466. Number of Subarrays With AND Value of K</a></h2><h3>Hard</h3><hr><p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return the number of <span data-keyword="subarray-nonempty">subarrays</span> of <code>nums</code> where the bitwise <code>AND</code> of the elements of the subarray equals <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k">Number of Subarrays With AND Value of K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>Given an array of integers <code>nums</code> and an integer <code>k</code>, return the number of <span data-keyword="subarray-nonempty">subarrays</span> of <code>nums</code> where the bitwise <code>AND</code> of the elements of the subarray equals <code>k</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
