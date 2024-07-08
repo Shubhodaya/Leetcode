@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k">2546. Number of Subarrays With GCD Equal to K</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of <strong>subarrays</strong> of </em><code>nums</code><em> where the greatest common divisor of the subarray&#39;s elements is </em><code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k">Number of Subarrays With GCD Equal to K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the number of <strong>subarrays</strong> of </em><code>nums</code><em> where the greatest common divisor of the subarray&#39;s elements is </em><code>k</code>.</p>
 
 <p>A <strong>subarray</strong> is a contiguous non-empty sequence of elements within an array.</p>
 
