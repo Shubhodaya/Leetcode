@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-for-cutting-cake-i">3494. Minimum Cost for Cutting Cake I</a></h2><h3>Medium</h3><hr><p>There is an <code>m x n</code> cake that needs to be cut into <code>1 x 1</code> pieces.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-for-cutting-cake-i">Minimum Cost for Cutting Cake I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There is an <code>m x n</code> cake that needs to be cut into <code>1 x 1</code> pieces.</p>
 
 <p>You are given integers <code>m</code>, <code>n</code>, and two arrays:</p>
 
