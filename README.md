@@ -190,6 +190,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shubhodaya/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubhodaya/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubhodaya/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
