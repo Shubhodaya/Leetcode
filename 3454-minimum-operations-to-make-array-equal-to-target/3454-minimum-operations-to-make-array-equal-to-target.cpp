@@ -17,8 +17,8 @@ public:
                 inc=dif;
                 dec=0;
             }else if(dif<0){
-                if(dif<dec)ans+= dec-dif;
-                dec=dif;
+                if(abs(dif)>dec)ans+= abs(dif)-dec;
+                dec=abs(dif);
                 inc=0;
             }else{
                 inc=0;dec=0;
