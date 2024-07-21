@@ -172,10 +172,12 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubhodaya/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [1720-crawler-log-folder](https://github.com/Shubhodaya/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Shubhodaya/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shubhodaya/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
