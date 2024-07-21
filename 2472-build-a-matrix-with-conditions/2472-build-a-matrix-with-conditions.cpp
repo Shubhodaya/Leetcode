@@ -1,51 +1,65 @@
 class Solution {
 public:
-    vector<vector<int>> buildMatrix(int k, vector<vector<int>>& rowConditions, vector<vector<int>>& colConditions) {
-        vector<vector<int>> rowGraph(k + 1), colGraph(k + 1);
-        for (auto& rc : rowConditions) {
-            rowGraph[rc[0]].push_back(rc[1]);
-        }
-        for (auto& cc : colConditions) {
-            colGraph[cc[0]].push_back(cc[1]);
-        }
-        
-        vector<int> rowOrder = topoSort(rowGraph, k);
-        vector<int> colOrder = topoSort(colGraph, k);
-        
-        if (rowOrder.empty() || colOrder.empty()) return {};
-        
-        vector<vector<int>> result(k, vector<int>(k, 0));
-        unordered_map<int, int> rowMap, colMap;
-        for (int i = 0; i < k; ++i) {
-            rowMap[rowOrder[i]] = i;
-            colMap[colOrder[i]] = i;
-        }
-        
-        for (int i = 1; i <= k; ++i) {
-            result[rowMap[i]][colMap[i]] = i;
-        }
-        
-        return result;
+void dfs(int nd, vector<vector<int>>&adj,vector<int>&v,vector<int>&ind,vector<int>&vis){
+
+if(vis[nd])return;
+vis[nd]=1;
+    v.push_back(nd);
+
+    for( int i=0;i<adj[nd].size();i++){
+        ind[adj[nd][i]]--;
+        if(ind[adj[nd][i]]==0)dfs(adj[nd][i],adj,v,ind,vis);
     }
-    
-    vector<int> topoSort(vector<vector<int>>& graph, int k) {
-        vector<int> inDegree(k + 1, 0), order;
-        queue<int> q;
-        for (int i = 1; i <= k; ++i) {
-            for (int j : graph[i]) {
-                ++inDegree[j];
-            }
+return;
+
+}
+    vector<vector<int>> buildMatrix(int k, vector<vector<int>>& row, vector<vector<int>>& col) {
+
+        vector<int>r;
+        vector<int>c;
+        vector<int>ir(k+1,0),ic(k+1,0);
+        // vector<int>vr,vc;
+        vector<vector<int>>v(k,vector<int>(k,0));
+        vector<vector<int>>emp;
+
+
+        vector<vector<int>>adjr(k+1),adjc(k+1);
+
+        for( int i=0;i<row.size();i++){
+            adjr[row[i][0]].push_back(row[i][1]);
+            ir[row[i][1]]++;
         }
-        for (int i = 1; i <= k; ++i) {
-            if (inDegree[i] == 0) q.push(i);
+
+          for( int i=0;i<col.size();i++){
+            adjc[col[i][0]].push_back(col[i][1]);
+            ic[col[i][1]]++;
         }
-        while (!q.empty()) {
-            int node = q.front(); q.pop();
-            order.push_back(node);
-            for (int adj : graph[node]) {
-                if (--inDegree[adj] == 0) q.push(adj);
-            }
+
+        vector<int>vc(k+1,0),vr(k+1,0);
+
+        for(int i=1;i<=k;i++){
+            if(ir[i]==0)dfs(i,adjr,r,ir,vr);
         }
-        return order.size() == k ? order : vector<int>();
+        for(int i=1;i<=k;i++){
+            if(ic[i]==0)dfs(i,adjc,c,ic,vc);
+        }
+        //          for( int i=0;i<r.size();i++){
+        //     cout<<r[i]<<" ";
+        // }
+        // cout<<endl;
+        // for( int i=0;i<c.size();i++)cout<<c[i]<<" ";
+        // cout<<endl;
+
+        if(r.size()!=k || c.size()!=k)return emp;
+
+unordered_map<int,int>mp;
+    for( int i=0;i<c.size();i++)mp[c[i]]=i;
+        for( int i=0;i<r.size();i++){
+            v[i][mp[r[i]]]=r[i];
+        }
+
+
+
+    return v;
     }
 };
