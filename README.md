@@ -191,6 +191,7 @@
 | [1803-average-waiting-time](https://github.com/Shubhodaya/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shubhodaya/Leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -214,6 +215,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubhodaya/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -229,6 +231,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubhodaya/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Shubhodaya/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Greedy
@@ -276,6 +279,7 @@
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shubhodaya/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
