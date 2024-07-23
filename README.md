@@ -188,6 +188,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubhodaya/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Shubhodaya/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shubhodaya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Shubhodaya/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -215,6 +216,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubhodaya/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shubhodaya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -231,6 +233,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubhodaya/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Shubhodaya/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Shubhodaya/Leetcode/tree/master/2502-sort-the-people) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Shubhodaya/Leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
