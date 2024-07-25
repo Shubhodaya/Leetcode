@@ -1,39 +1,24 @@
 class Solution {
+    private : void f(int i, int j,int ac, vector<vector<int>>& image,int color,vector<vector<int>>& vis){
+        if(vis[i][j])return;
+     image[i][j]=color;
+     vis[i][j]=1;
+             int n= image.size();
+         int m= image[0].size();
+     if(i+1<n && image[i+1][j]==ac)f(i+1,j,ac,image,color,vis);
+       if(j+1<m && image[i][j+1]==ac)f(i,j+1,ac,image,color,vis);
+         if(i-1>=0 && image[i-1][j]==ac)f(i-1,j,ac,image,color,vis);
+           if(j-1>=0 && image[i][j-1]==ac)f(i,j-1,ac,image,color,vis);
 
-    private:
-       void dfs(pair<int,int>p,vector<vector<int>>& vis,vector<vector<int>>& grid,int ini,int colr){
-         
-    int row= p.first;
-    int col =p.second;
-    vis[row][col]=1;
-grid[row][col]=colr;
-// cout<<row<<" "<<col<<endl;
-  
-  int dr[4]={-1,0,1,0};
-  int dc[4]={0,-1,0,1};
- 
- for(int i=0;i<4;i++){
-     int nr= row+dr[i];
-     int nc=col+dc[i];
-     if(nr>=0 && nc>=0 && nr<grid.size() && nc<grid[0].size() && vis[nr][nc]==0 && grid[nr][nc]==ini){
-         dfs({nr,nc},vis,grid,ini,colr);
-     }
- }
-
-
+return;
     }
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int ini=image[sr][sc];
-        int n=image.size();
-        int m=image[0].size();
-        vector<vector<int>>vis(n,vector<int>(m,0));
-
-        dfs({sr,sc},vis,image,ini,color);
+        int n= image.size();
+         int m= image[0].size();
+int ac=image[sr][sc];
+        vector<vector<int>>vis( n, vector<int>(m,0));
+        f(sr,sc,ac,image,color,vis);
         return image;
-
-
-
-        
     }
 };
