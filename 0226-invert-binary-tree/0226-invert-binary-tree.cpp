@@ -10,20 +10,20 @@
  * };
  */
 class Solution {
-public:
+    private: TreeNode* f(TreeNode* root){
+        if(root==nullptr)return root;
 
-    TreeNode* invertTree(TreeNode* root) {
-
-        if(!root)return NULL;
-
-        TreeNode *temp=root->left;
+        TreeNode* temp= root->left;
         root->left=root->right;
         root->right=temp;
 
-        invertTree(root->left);
-        invertTree(root->right);
-
+        f(root->left);
+        f(root->right);
         return root;
-        
+    }
+public:
+    TreeNode* invertTree(TreeNode* root) {
+
+        return f(root);
     }
 };
