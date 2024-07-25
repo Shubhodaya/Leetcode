@@ -13,12 +13,12 @@ class Solution {
     private: TreeNode* f(TreeNode* root){
         if(root==nullptr)return root;
 
-        TreeNode* temp= root->left;
-        root->left=root->right;
+        TreeNode* temp=    f(root->left);
+        root->left=f(root->right);
         root->right=temp;
 
-        f(root->left);
-        f(root->right);
+     
+        
         return root;
     }
 public:
