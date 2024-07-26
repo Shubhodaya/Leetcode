@@ -10,26 +10,24 @@
  * };
  */
 class Solution {
-public:
-
+bool x=true;
+    private :
     
-    int dfsheight(TreeNode* root){
-        if(!root)return 0;
+     int f(TreeNode* root){
 
+        if(root==nullptr)return 0;
 
-        int l=dfsheight(root->left);
-        if(l==-1)return -1;
-        int r=dfsheight(root->right);
-        if(r==-1)return -1;
+        int a=f(root->left);
+        int b= f(root->right);
+        if(abs(a-b)>1)x=false;
 
-        if(abs(r-l)>1)return -1;
-
-        return max(l,r)+1;
-    
+        return max(a,b)+1;
     }
+public:
     bool isBalanced(TreeNode* root) {
-
-    
-        return (dfsheight(root)!=-1);
+       
+       int h=f(root);
+       return x;
+        
     }
 };
