@@ -19,7 +19,7 @@ if(root==nullptr)return 0;
 
       int a=  f(root->left);
       int b=  f(root->right);
-      ans=max(ans,a+b+1);
+      ans=max(ans,a+b);
 
       return max(a,b)+1;
 
@@ -29,7 +29,7 @@ public:
     int diameterOfBinaryTree(TreeNode* root) {
         
 int k=f(root);
-return ans-1;
+return ans;
     
     }
 };
