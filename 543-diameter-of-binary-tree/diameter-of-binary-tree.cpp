@@ -10,43 +10,26 @@
  * };
  */
 class Solution {
+    int ans=0;
     private:
 
-    int f(TreeNode* p,int &ans){
+    int f(TreeNode* root){
 
-        if(!p)return 0;
-           
+if(root==nullptr)return 0;
 
-           int l=f(p->left,ans);
-           int r=f(p->right,ans);
-        ans=max(ans,l+r);
-        return max(1+l,1+r);
+      int a=  f(root->left);
+      int b=  f(root->right);
+      ans=max(ans,a+b+1);
 
-        
+      return max(a,b)+1;
 
-
-    }
-
-        int diameter(TreeNode* curr, int& res){
-        // Base case: if the current node is null, return 0
-        if (!curr) return 0;
-        
-        // Recursively calculate the diameter of left and right subtrees
-        int left = diameter(curr->left, res);
-        int right = diameter(curr->right, res);
-
-        // Update the maximum diameter encountered so far
-        res = std::max(res, left + right);
-        
-        // Return the depth of the current node
-        return std::max(left, right) + 1;
+       
     }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         
-
-        int ans=0;
-        f(root,ans);
-        return ans;
+int k=f(root);
+return ans-1;
+    
     }
 };
