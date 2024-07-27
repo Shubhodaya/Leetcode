@@ -1,21 +1,22 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int low = 0, mid = 0, high = nums.size()-1;
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums[low], nums[mid]);
-                low++;
-                mid++;
-            }
-            else if(nums[mid] == 1){
-                mid++;
-            }
-            else{
-                swap(nums[mid], nums[high]);
-                high--;
-                //mid++;
-            }
-        }
+int n= nums.size();
+int l=0,m=0,h=n-1;
+
+for( ;m<=h; ){
+    if(nums[m]==1)m++;
+    else if(nums[m]==0){
+        swap(nums[l],nums[m]);
+        l++;
+        m++;
+    }else{
+        swap(nums[h],nums[m]);
+        h--;     
+    }
+}
+
+
+
     }
 };
