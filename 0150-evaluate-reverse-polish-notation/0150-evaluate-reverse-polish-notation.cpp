@@ -2,47 +2,44 @@ class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
         stack<int>st;
+st.push(stoi(tokens[0]));
 
-       for(auto it: tokens){
+for( int i=1;i<tokens.size();i++){
+    if(tokens[i]!="+" && tokens[i]!="-" && tokens[i]!="*" && tokens[i]!="/")st.push(stoi(tokens[i]));
+    else{
+        if(tokens[i]=="+"){
+            int s1=st.top();
+            st.pop();
+            int s2=st.top();
+            st.pop();
+            st.push(s1+s2);
+        }
+                if(tokens[i]=="-"){
+            int s1=st.top();
+            st.pop();
+            int s2=st.top();
+            st.pop();
+            st.push(s2-s1);
+        }
+                if(tokens[i]=="*"){
+            int s1=st.top();
+            st.pop();
+            int s2=st.top();
+            st.pop();
+            st.push(s1*s2);
+        }
+                if(tokens[i]=="/"){
+            int s1=st.top();
+            st.pop();
+            int s2=st.top();
+            st.pop();
+            st.push(s2/s1);
+        }
 
-           if(it=="+" || it=="-" ||it=="*" || it=="/"){
+    }
+}
 
-
-int a,b;
-               if(it=="+"){
-                    a= st.top();
-                   st.pop();
-                  b = st.top();
-                   st.pop();
-                    st.push(b+a);
-               }
-                              if(it=="-"){
-                    a= st.top();
-                   st.pop();
-                  b = st.top();
-                   st.pop();
-                    st.push(b-a);
-               }
-                              if(it=="*"){
-                    a= st.top();
-                   st.pop();
-                  b = st.top();
-                   st.pop();
-                    st.push(b*a);
-               }
-                              if(it=="/"){
-                    a= st.top();
-                   st.pop();
-                  b = st.top();
-                   st.pop();
-                    st.push(b/a);
-               }
-
-           }else{
-               st.push(stoi(it));
-           }
-       } 
-       return st.top();
+return st.top();
         
     }
 };
