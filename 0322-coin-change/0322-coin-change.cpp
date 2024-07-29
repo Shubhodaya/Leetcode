@@ -1,33 +1,23 @@
 class Solution {
+    private: int f(int i,vector<int>& coins, int amount, vector<vector<int>>&dp){
 
-    private :
+        if(amount==0)return 0;
+        if(i==coins.size())return 1e9;
+        if(dp[i][amount]!=-1)return dp[i][amount];
 
-    int func(int i, int amt, vector<int> &coins,vector<vector<int>> &dp){
+int t=1e9;
+  if(amount>=coins[i])t=f(i,coins,amount-coins[i],dp)+1;
 
+ int nt=f(i+1,coins,amount,dp);
 
-        if(dp[i][amt]!=-1)return dp[i][amt];
+ return dp[i][amount]=min(t,nt);
 
-        if(amt==0)return 0;
-        if(i==0){
-            if(amt%coins[0]==0)return amt/coins[0]; 
-            return 1e9;    
-        }
-         
-
-        int take=INT_MAX-1;
-        if(amt>=coins[i]) take=func(i,amt-coins[i],coins,dp)+1;
-
-        int nottake=func(i-1,amt,coins,dp);
-
-
-        return dp[i][amt]= min(take,nottake);
     }
 public:
     int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>>dp(coins.size()+1,vector<int>(amount+1,-1));
-    int ans=func(coins.size()-1,amount,coins,dp);
-    if (ans>=1e9)return -1;
-    else return ans;
-        
+
+vector<vector<int>>dp(coins.size()+1,vector<int>(amount+1,-1));
+        if( f(0,coins,amount,dp)>=1e9)return -1;
+        else return f(0,coins,amount,dp);
     }
 };
