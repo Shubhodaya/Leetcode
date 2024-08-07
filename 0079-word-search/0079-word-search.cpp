@@ -12,12 +12,12 @@ class Solution {
     //    char temp = board[i][j];
         // board[i][j] = '*';
 
-       if(f(i+1,j,ind+1,board,vis,word))return true;
-       if(f(i,j+1,ind+1,board,vis,word))return true;
-       if(f(i,j-1,ind+1,board,vis,word))return true;
-       if(f(i-1,j,ind+1,board,vis,word))return true;
+    //    if(f(i+1,j,ind+1,board,vis,word))return true;
+    //    if(f(i,j+1,ind+1,board,vis,word))return true;
+    //    if(f(i,j-1,ind+1,board,vis,word))return true;
+    //    if(f(i-1,j,ind+1,board,vis,word))return true;
       
-    //    ||f(i-1,j,ind+1,board,vis,word)||f(i,j+1,ind+1,board,vis,word)||f(i,j-1,ind+1,board,vis,word);
+    if( f(i+1,j,ind+1,board,vis,word) ||f(i-1,j,ind+1,board,vis,word)||f(i,j+1,ind+1,board,vis,word)||f(i,j-1,ind+1,board,vis,word))return true;
 
 vis[i][j]=0;
 //  board[i][j] = temp;
