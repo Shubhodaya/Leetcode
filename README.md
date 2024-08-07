@@ -241,6 +241,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubhodaya/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -329,6 +330,7 @@
 | [0020-valid-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shubhodaya/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -402,4 +404,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
