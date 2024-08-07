@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
@@ -326,6 +327,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Shubhodaya/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -363,6 +365,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -398,4 +401,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
