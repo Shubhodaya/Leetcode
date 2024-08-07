@@ -6,11 +6,11 @@ class Solution {
         int r=board.size();
         int c=board[0].size();
        if(i>=r || j>=c || i<0 || j<0 )return false;
-    //    if(vis[i][j]==1)return false;
+       if(vis[i][j]==1)return false;
        if(board[i][j]!=word[ind])return false;
-    //    vis[i][j]=1;
-       char temp = board[i][j];
-        board[i][j] = '*';
+       vis[i][j]=1;
+    //    char temp = board[i][j];
+        // board[i][j] = '*';
 
        if(f(i+1,j,ind+1,board,vis,word))return true;
        if(f(i,j+1,ind+1,board,vis,word))return true;
@@ -19,8 +19,8 @@ class Solution {
       
     //    ||f(i-1,j,ind+1,board,vis,word)||f(i,j+1,ind+1,board,vis,word)||f(i,j-1,ind+1,board,vis,word);
 
-// vis[i][j]=0;
- board[i][j] = temp;
+vis[i][j]=0;
+//  board[i][j] = temp;
 return false;
 
     }
