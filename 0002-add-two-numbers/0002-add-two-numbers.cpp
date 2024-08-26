@@ -11,36 +11,52 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode();
-
-        ListNode* temp =dummy;
 
 
-        int carry=0;
-
-        while(l1 || l2 ||carry){
-            int sum =0;
+        ListNode* pt=new ListNode();
+    ListNode* pt1=pt;
+    int c=0;
+        while(l1 && l2){
+           
+            ListNode* nnode=new ListNode();
+             pt->next=nnode;
+            int sum=l1->val+l2->val+c;
+            c=sum/10;
+            nnode->val=sum%10;
+            l1=l1->next;
+            l2=l2->next;
+              pt=pt->next;
             
-            if(l1){
-                sum += l1->val;
-                l1=l1->next;
-            }
-            if(l2){
-                sum += l2->val;
-                l2 = l2->next;
-            }
-
-            sum += carry;
-            carry= sum /10;
-            ListNode* newNode = new ListNode();
-            newNode->val= sum%10;
-            temp->next=newNode;
-            temp=temp->next;
-
-
         }
 
-        return dummy->next;
+        while(l1){
+               
+            ListNode* nnode=new ListNode();
+                 pt->next=nnode;
+                int sum=l1->val+c;
+            c=sum/10;
+            nnode->val=sum%10;
+            l1=l1->next;
+              pt=pt->next;
+        }
+
+                while(l2){
+           ListNode* nnode=new ListNode();
+                 pt->next=nnode;
+                int sum=l2->val+c;
+            c=sum/10;
+            nnode->val=sum%10;
+            l2=l2->next;
+              pt=pt->next;
+        }
+
+        if(c){
+              ListNode* nnode=new ListNode();
+                    pt->next=nnode;
+                  nnode->val=c;   
+        }
+
+        return pt1->next;
         
     }
 };
