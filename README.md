@@ -317,6 +317,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shubhodaya/Leetcode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Shubhodaya/Leetcode/tree/master/1642-water-bottles) |
