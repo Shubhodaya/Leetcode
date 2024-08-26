@@ -197,6 +197,7 @@
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Shubhodaya/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
@@ -282,6 +283,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Shubhodaya/Leetcode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Shubhodaya/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
