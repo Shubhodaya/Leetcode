@@ -161,6 +161,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhodaya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shubhodaya/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhodaya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
@@ -202,6 +204,7 @@
 | [0134-gas-station](https://github.com/Shubhodaya/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -237,6 +240,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubhodaya/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Hash Table
@@ -382,6 +386,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
