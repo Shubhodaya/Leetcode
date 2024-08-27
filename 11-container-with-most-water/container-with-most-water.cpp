@@ -6,7 +6,7 @@ public:
        int ans=0;
        while(l<r){
         ans= max( ans, (r-l)*min(height[r],height[l]));
-        if(height[l]<height[r])l++;
+        if(height[l]<=height[r])l++;
         else r--;
        }
         return ans;
