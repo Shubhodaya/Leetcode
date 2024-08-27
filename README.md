@@ -205,6 +205,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +267,7 @@
 | [0015-3sum](https://github.com/Shubhodaya/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubhodaya/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
