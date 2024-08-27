@@ -201,6 +201,7 @@
 | [0015-3sum](https://github.com/Shubhodaya/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -321,6 +322,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Shubhodaya/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Shubhodaya/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
