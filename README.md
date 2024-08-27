@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubhodaya/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhodaya/Leetcode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -460,4 +462,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
