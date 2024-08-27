@@ -1,29 +1,36 @@
 class Solution {
-private:
-string f(int i,int j, string s){
-    int n= s.size();
-
-    while( i>=0 && j<n && s[i]==s[j]){
+    string f(int i, int j,string s ){
+int n= s.size();
+    while(i>=0 && j<n && s[i]==s[j]){
         i--;
         j++;
     }
 
-    return s.substr(i+1,j-i-1);
+    return s.substr(i+1,j-1-i);
 
 
-}
+    }
 public:
     string longestPalindrome(string s) {
-string ans="";
-if(s.size())ans+=s[0];
-        for( int i=0;i<s.size()-1;i++){
-            string s1=f(i,i,s);
-            string s2=f(i,i+1,s);
+    
+    string t="";
+    t+=s[0];
+    cout<<t<<endl;
+    int n= s.size();
+    // vector<vector<int>>dp(s.size()+1, vector<int>(s.size()+1,-1));
 
-            if(s1.size()>ans.size())ans=s1;
-            if(s2.size()>ans.size())ans=s2;
+    for( int i=0; i<s.size();i++){
+          
+          string odd= f( i,i,s);
+          string eve="";
+          if(i+1<n)eve= f(i,i+1,s);
 
-        }
-        return ans;
+          if(odd.size()>t.size())t=odd;
+          if(eve.size()>t.size())t=eve;
+
+    }
+
+
+    return t;
     }
 };
