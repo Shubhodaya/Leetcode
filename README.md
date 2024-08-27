@@ -247,6 +247,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Shubhodaya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubhodaya/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubhodaya/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -406,6 +408,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Shubhodaya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Divide and Conquer
 |  |
@@ -434,4 +437,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
