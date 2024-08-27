@@ -252,6 +252,7 @@
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
@@ -269,6 +270,7 @@
 | [0015-3sum](https://github.com/Shubhodaya/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubhodaya/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -325,6 +327,7 @@
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhodaya/Leetcode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Shubhodaya/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
