@@ -343,6 +343,7 @@
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shubhodaya/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Shubhodaya/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -358,6 +359,7 @@
 | [0020-valid-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/Shubhodaya/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -369,6 +371,7 @@
 | [0020-valid-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Shubhodaya/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Shubhodaya/Leetcode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhodaya/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Shubhodaya/Leetcode/tree/master/1720-crawler-log-folder) |
