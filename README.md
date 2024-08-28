@@ -345,6 +345,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shubhodaya/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Shubhodaya/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
@@ -363,6 +364,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shubhodaya/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shubhodaya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Shubhodaya/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
