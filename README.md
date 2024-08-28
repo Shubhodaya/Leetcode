@@ -218,6 +218,7 @@
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Shubhodaya/Leetcode/tree/master/0792-binary-search) |
+| [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Shubhodaya/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Shubhodaya/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -291,6 +292,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Shubhodaya/Leetcode/tree/master/0792-binary-search) |
+| [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Shubhodaya/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -343,6 +345,7 @@
 | [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
+| [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Shubhodaya/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -429,6 +432,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Binary Search Tree
 |  |
@@ -482,4 +486,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
