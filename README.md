@@ -207,6 +207,7 @@
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Shubhodaya/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
@@ -240,6 +241,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shubhodaya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -256,6 +258,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/Shubhodaya/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
@@ -372,6 +375,7 @@
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Shubhodaya/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/Shubhodaya/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shubhodaya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0726-number-of-atoms](https://github.com/Shubhodaya/Leetcode/tree/master/0726-number-of-atoms) |
@@ -470,4 +474,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
