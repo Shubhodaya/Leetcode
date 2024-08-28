@@ -323,6 +323,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhodaya/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Shubhodaya/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -447,6 +448,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhodaya/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -469,6 +471,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
 ## Doubly-Linked List
 |  |
@@ -490,4 +493,8 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
