@@ -203,6 +203,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shubhodaya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
@@ -266,6 +267,7 @@
 | [0012-integer-to-roman](https://github.com/Shubhodaya/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shubhodaya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Shubhodaya/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Shubhodaya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
@@ -490,6 +493,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shubhodaya/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Shubhodaya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
