@@ -203,6 +203,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Shubhodaya/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
@@ -243,6 +244,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubhodaya/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Shubhodaya/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Shubhodaya/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shubhodaya/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Shubhodaya/Leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Shubhodaya/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/Shubhodaya/Leetcode/tree/master/0621-task-scheduler) |
