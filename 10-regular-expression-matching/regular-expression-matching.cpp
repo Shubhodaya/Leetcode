@@ -1,6 +1,6 @@
 class Solution {
 
-    bool f(int i, int j, string&s, string& p,vector<vector<int>>&dp){
+int f(int i, int j, string&s, string& p,vector<vector<int>>&dp){
 
 int ns=s.size(), np=p.size();
 
