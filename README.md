@@ -162,6 +162,7 @@
 | [0110-balanced-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhodaya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Shubhodaya/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -176,6 +177,7 @@
 | [0127-word-ladder](https://github.com/Shubhodaya/Leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhodaya/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Shubhodaya/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Shubhodaya/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
@@ -184,6 +186,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shubhodaya/Leetcode/tree/master/0207-course-schedule) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Shubhodaya/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Shubhodaya/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -192,6 +195,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Shubhodaya/Leetcode/tree/master/0207-course-schedule) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Shubhodaya/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
