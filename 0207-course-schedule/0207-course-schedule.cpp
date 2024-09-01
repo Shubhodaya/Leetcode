@@ -1,42 +1,51 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int V=numCourses;
+    bool canFinish(int n, vector<vector<int>>& pre) {
 
-vector<int>adj[V];
+        vector<int>vis(n,0);
+        vector<vector<int>>adj(n);
 
-for(auto it: prerequisites){
-adj[it[1]].push_back(it[0]);
-}
+ 
 
-queue<int>q;
+        queue<int>q;
+        
 
-int cnt=0;
+        vector<int>ind(n,0);
 
-int in[2000]={0};
+        for( int i=0;i<pre.size();i++){
+            ind[pre[i][0]]++;
+            adj[pre[i][1]].push_back(pre[i][0]);
+        }
+vector<int>v;
+        for( int i=0;i<n;i++){
+            if(ind[i]==0){
+                // c++;
+           q.push(i);
+            vis[i]=1;
+            }
+        }
 
-for(int i=0;i<V;i++){
-    for(auto it: adj[i])
-    in[it]++;
-}
 
-for(int i=0;i<V;i++)
-if(!in[i])q.push(i);
 
-while(!q.empty()){
+        while(!q.empty()){
 
-    int curr=q.front();
-    q.pop();
-    cnt++;
+            int newn=q.front();
+            if(ind[newn]==0)v.push_back(newn);
+            q.pop();
 
-    for(int i=0;i<adj[curr].size();i++){
-        int node=adj[curr][i];
-        in[node]--;
-        if(!in[node])q.push(node);
-    }
-}
-     if(cnt==V)return 1;
-     return 0;  
+            for( auto it:adj[newn]){
+                ind[it]--;
+                if(ind[it]==0 && vis[it]==0)
+                {
+                    vis[it]=1;
+                    q.push(it);
+                }
+            }
+        }
+
+        for( auto it:v)cout<<it<<" ";
+if(v.size()!=n)return false;
+        return true;
         
     }
 };
