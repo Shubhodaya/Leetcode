@@ -30,7 +30,7 @@ vector<int>v;
         while(!q.empty()){
 
             int newn=q.front();
-            if(ind[newn]==0)v.push_back(newn);
+            v.push_back(newn);
             q.pop();
 
             for( auto it:adj[newn]){
