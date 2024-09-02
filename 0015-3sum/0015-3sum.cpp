@@ -10,8 +10,8 @@ public:
 
             int l=0,r=n-1;
             while(l<i && i<r){
-if(l==i)l++;
-if(r==i)r--;
+// if(l==i)l++;
+// if(r==i)r--;
                 int x= nums[l]+nums[r];
 if(x==num){v.insert({nums[l],nums[i],nums[r]});
 l++;
