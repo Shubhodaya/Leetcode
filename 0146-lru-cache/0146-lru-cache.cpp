@@ -7,9 +7,9 @@ public:
     Node* prev;
     Node* next;
 
-    Node ( int key, int val){
-        this->key=key;
-        this->val=val;
+    Node ( int x, int v){
+        key=x;
+        val=v;
     }
  };
 
