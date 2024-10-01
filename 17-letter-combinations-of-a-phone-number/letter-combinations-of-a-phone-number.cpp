@@ -7,15 +7,17 @@ public:
             return res;
         }
         
-        unordered_map<char, string> digitToLetters;
-            digitToLetters['2'] ="abc";
-            digitToLetters['3'] ="def";
-            digitToLetters['4'] ="ghi";
-            digitToLetters['5'] ="jkl";
-            digitToLetters['6'] ="mno";
-            digitToLetters['7'] ="pqrs";
-            digitToLetters['8'] ="tuv";
-            digitToLetters['9'] ="wxyz";
+        unordered_map<char, string> digitToLetters = {
+            {'2', "abc"},
+            {'3', "def"},
+            {'4', "ghi"},
+            {'5', "jkl"},
+            {'6', "mno"},
+            {'7', "pqrs"},
+            {'8', "tuv"},
+            {'9', "wxyz"}
+        };
+        
         backtrack(digits, 0, "", res, digitToLetters);
         
         return res;        
