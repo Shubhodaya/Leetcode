@@ -9,13 +9,7 @@ class Solution {
        if(vis[i][j]==1)return false;
        if(board[i][j]!=word[ind])return false;
        vis[i][j]=1;
-    //    char temp = board[i][j];
-        // board[i][j] = '*';
 
-    //    if(f(i+1,j,ind+1,board,vis,word))return true;
-    //    if(f(i,j+1,ind+1,board,vis,word))return true;
-    //    if(f(i,j-1,ind+1,board,vis,word))return true;
-    //    if(f(i-1,j,ind+1,board,vis,word))return true;
       
     if( f(i+1,j,ind+1,board,vis,word) ||f(i-1,j,ind+1,board,vis,word)||f(i,j+1,ind+1,board,vis,word)||f(i,j-1,ind+1,board,vis,word))return true;
 
