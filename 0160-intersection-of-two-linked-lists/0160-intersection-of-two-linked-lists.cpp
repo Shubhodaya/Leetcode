@@ -10,16 +10,20 @@ class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
 
-        ListNode* a= headA;
-        ListNode* b = headB;
+        set<ListNode*>mp1,mp2;
 
-        while(a!=b){
+        ListNode *a=headA;
+        ListNode *b=headB;
+while(a){
+mp1.insert(a);
+a=a->next;
+}
 
-            a= a==NULL?headB:a->next;
-            b= b==NULL?headA : b->next;
-        }
-
-        return b;
+while(b){
+if(mp1.find(b)!=mp1.end())return b;
+b=b->next;
+}
+return NULL;
         
     }
 };
