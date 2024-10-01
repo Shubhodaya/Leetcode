@@ -14,16 +14,19 @@ public:
 
         ListNode *a=headA;
         ListNode *b=headB;
-while(a){
-mp1.insert(a);
-a=a->next;
+while(a!=b){
+
+
+if(a==NULL)a=headB;
+else a= a->next;
+
+
+if(b==NULL)b=headA;
+else b= b->next;
+
 }
 
-while(b){
-if(mp1.find(b)!=mp1.end())return b;
-b=b->next;
-}
-return NULL;
+return b;
         
     }
 };
