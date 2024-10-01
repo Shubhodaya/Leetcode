@@ -380,6 +380,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubhodaya/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/Shubhodaya/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Shubhodaya/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Shubhodaya/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shubhodaya/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
