@@ -221,6 +221,7 @@
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shubhodaya/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Shubhodaya/Leetcode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -257,6 +258,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhodaya/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shubhodaya/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Shubhodaya/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodaya/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -464,6 +466,7 @@
 | [0054-spiral-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Shubhodaya/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Shubhodaya/Leetcode/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/Shubhodaya/Leetcode/tree/master/0733-flood-fill) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Shubhodaya/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Shubhodaya/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
