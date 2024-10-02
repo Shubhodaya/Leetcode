@@ -265,6 +265,7 @@
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Shubhodaya/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2562-count-ways-to-build-good-strings](https://github.com/Shubhodaya/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Shubhodaya/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Shubhodaya/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Union Find
