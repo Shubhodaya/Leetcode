@@ -309,6 +309,7 @@
 | [0042-trapping-rain-water](https://github.com/Shubhodaya/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shubhodaya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Shubhodaya/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shubhodaya/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
@@ -330,6 +331,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shubhodaya/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shubhodaya/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Shubhodaya/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Shubhodaya/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -362,6 +364,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Shubhodaya/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Shubhodaya/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shubhodaya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Shubhodaya/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -506,6 +509,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhodaya/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Shubhodaya/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shubhodaya/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -556,6 +560,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubhodaya/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Shubhodaya/Leetcode/tree/master/0148-sort-list) |
 ## Data Stream
 |  |
 | ------- |
