@@ -226,6 +226,7 @@
 | [0200-number-of-islands](https://github.com/Shubhodaya/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Shubhodaya/Leetcode/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/Shubhodaya/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhodaya/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -263,6 +264,7 @@
 | [0139-word-break](https://github.com/Shubhodaya/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Shubhodaya/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Shubhodaya/Leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhodaya/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shubhodaya/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Shubhodaya/Leetcode/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Shubhodaya/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -322,6 +324,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhodaya/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubhodaya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Shubhodaya/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shubhodaya/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Shubhodaya/Leetcode/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/Shubhodaya/Leetcode/tree/master/0912-random-pick-with-weight) |
